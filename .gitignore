@@ -1,3 +1,12 @@
 .DS_Store
 
 Used Car Price Prediction/data/
+VTB Products Cards
+
+NN_pipeline.ipynb
+
+
+Songs genre prediction by lyrics/data/
+Songs genre prediction by lyrics/raw/
+Songs genre prediction by lyrics/train_ft.csv
+Songs genre prediction by lyrics/test_ft.csv
